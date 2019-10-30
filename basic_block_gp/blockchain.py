@@ -81,6 +81,7 @@ class Blockchain(object):
         :return: A valid proof for the provided block
         """
         # TODO
+        
         pass
         # return proof
 
@@ -97,6 +98,7 @@ class Blockchain(object):
         :return: True if the resulting hash is a valid proof, False otherwise
         """
         # TODO
+        
         pass
         # return True or False
 
